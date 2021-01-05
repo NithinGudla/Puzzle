@@ -6,7 +6,6 @@ public class Ball {
     int y;
     int dir1;
     int dir2;
-    int diameter;
     int r;
     int g;
     int b;
